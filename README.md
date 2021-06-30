@@ -1,2 +1,2 @@
 # My-First-Repository
-For test
+First Project I worked on to learn GitHub
